@@ -127,3 +127,15 @@ Call it progress
 <img src="https://komarev.com/ghpvc/?username=ayushsoni30&color=blueviolet&style=for-the-badge" />
 </p>
 
+
+## 🎧 Current Status
+
+```text
+🎵 Now Playing:
+while(alive){
+   code();
+   gym();
+   sleep();
+   repeat();
+}
+
