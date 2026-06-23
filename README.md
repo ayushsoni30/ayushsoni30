@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AYUSH%20SONI&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=60" />
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Ayush Soni
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Developer;GenAI+Explorer;Python+Programmer;Building+AI+Powered+Applications" />
@@ -128,14 +132,4 @@ Call it progress
 </p>
 
 
-## 🎧 Current Status
-
-```text
-🎵 Now Playing:
-while(alive){
-   code();
-   gym();
-   sleep();
-   repeat();
-}
 
