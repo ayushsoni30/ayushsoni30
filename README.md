@@ -37,9 +37,7 @@ const ayush = {
 <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,docker,postman,tailwind,vscode,git,github" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
+
 
 ---
 
