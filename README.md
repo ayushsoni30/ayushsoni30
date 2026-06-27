@@ -96,15 +96,6 @@ const ayush = {
 
 ---
 
-## ☕ Debugging Status
-
-```text
-███████████████████░░ 90%
-
-Fix one bug
-Create three new bugs
-Call it progress
-```
 
 ---
 
