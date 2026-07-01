@@ -108,6 +108,8 @@ const ayush = {
 <a href="https://www.linkedin.com/in/ayushsoni3030/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+<img src="https://drive.google.com/file/d/1F9Dks6DaVLDIKVAxZl0Agij8_8ROFYa1/view?usp=drivesdk" />
+</a>
 </p>
 
 ---
