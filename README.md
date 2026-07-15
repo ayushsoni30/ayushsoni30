@@ -98,19 +98,15 @@ const ayush = {
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:ayushsoni55aa@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
   <a href="https://x.com/your-x-username" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
   </a>
 
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+  <a href="https://www.instagram.com/yesiamyashh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
