@@ -91,10 +91,8 @@ const ayush = {
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/ayushsoni30">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="centre">
+
 <a href="https://www.linkedin.com/in/ayushsoni3030/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
