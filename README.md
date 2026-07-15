@@ -91,12 +91,29 @@ const ayush = {
 
 ## 🌐 Connect With Me
 
-<p align="centre">
+<h3 align="center">Connect with Me</h3>
 
-<a href="https://www.linkedin.com/in/ayushsoni3030/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushsoni3030/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+
+  <a href="https://x.com/your-x-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
+
+  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
-
 ---
 
 <p align="center">
