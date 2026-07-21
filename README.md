@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;GenAI+Explorer;Python+Programmer;Building+AI+Powered+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ayushsoni30/count.svg" alt="Profile Views" />
-</p>
+
 
 <div align="center">
 
