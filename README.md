@@ -2,21 +2,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AYUSH%20SONI&fontSize=70&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Explorer&descAlignY=60" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Ayush Soni
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;GenAI+Explorer;Python+Programmer;Building+AI+Powered+Applications" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Developer;GenAI+Explorer;Python+Programmer;Building+AI+Powered+Applications" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ayushsoni30/count.svg" alt="Profile Views" />
+</p>
 
-```bash
-STATUS   : ONLINE
-ROLE     : Full Stack Developer
-LEARNING : GenAI • AI Agents • RAG
-STACK    : MERN + Python
-MISSION  : Build Useful Products
+<div align="center">
+
+```yaml
+Status    : Online
+Role      : Full Stack Developer
+Learning  : GenAI • RAG • AI Agents
+Stack     : MERN + Python
+Mission   : Build Useful Products
 ```
+
+</div>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 ```javascript
 const ayush = {
@@ -26,99 +34,83 @@ const ayush = {
   database: ["MongoDB"],
   currentlyLearning: ["GenAI", "RAG", "AI Agents"],
   hobbies: ["Gym", "Anime", "Building Projects"],
-  goal: "Turn ideas into products"
+  goal: "Turn ideas into products",
 };
 ```
 
 ---
 
-## ⚔️ Tech Arsenal
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,docker,postman,tailwind,vscode,git,github" />
-</p>
-
-
-
----
-
-## 🚀 Current Mission
-
-* 🤖 Building AI Applications
-* 📚 Mastering MERN Stack
-* 🧠 Exploring RAG & AI Agents
-* 🐍 Improving Python Skills
-* 💪 Staying Consistent In Gym
-
-
-
-## 🔥 Contribution Streak
+### ⚔️ Tech Arsenal
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ayushsoni30&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,mongodb,docker,postman,tailwind,vscode,git,github" />
 </p>
 
 ---
 
+### 🚀 Current Focus
+
+- 🤖 Building AI-powered applications
+- 📚 Mastering the MERN stack
+- 🧠 Exploring RAG & AI Agents
+- 🐍 Sharpening Python fundamentals
+- 💪 Staying consistent — code and gym both
 
 ---
 
-## 📈 Activity Graph
+### 🔥 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsoni30&theme=tokyo-night&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushsoni30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsoni30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushsoni30&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsoni30&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+### 🎯 2026 Roadmap
 
-* ✅ Build Production Grade AI Projects
-* ✅ Master System Design
-* ✅ Contribute To Open Source
-* ✅ Learn Advanced Backend Architecture
-* ✅ Create SaaS Products
+- [x] Build production-grade AI projects
+- [x] Master system design fundamentals
+- [ ] Contribute to open source
+- [ ] Learn advanced backend architecture
+- [ ] Ship a SaaS product
 
 ---
 
-## 💭 Developer Philosophy
+### 💭 Developer Philosophy
 
 > Build. Break. Learn. Repeat.
 
 ---
 
-
----
-
-## 🌐 Connect With Me
-
-<h3 align="center">Connect with Me</h3>
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushsoni3030/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushsoni55aa@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-</a>
-
-  <a href="https://x.com/your-x-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
   <a href="https://www.instagram.com/yesiamyashh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
+
 ---
 
 <p align="center">
-⚡ Building Today For A Better Tomorrow ⚡
+  ⚡ Building today for a better tomorrow ⚡
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushsoni30&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ayushsoni30&color=blueviolet&style=for-the-badge" />
 </p>
-
-
-
